@@ -1,0 +1,3 @@
+/home/tandesktop/Documents/001-Code/sdl2/calcu_sdl3/build/CMakeFiles/calcu_sdl3.dir
+/home/tandesktop/Documents/001-Code/sdl2/calcu_sdl3/build/CMakeFiles/edit_cache.dir
+/home/tandesktop/Documents/001-Code/sdl2/calcu_sdl3/build/CMakeFiles/rebuild_cache.dir

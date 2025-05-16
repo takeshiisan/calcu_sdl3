@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/calcu_sdl3.dir/link.d CMakeFiles/calcu_sdl3.dir/src/main.cpp.o -o calcu_sdl3  -lSDL3 -lSDL3_image

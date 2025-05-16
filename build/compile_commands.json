@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tandesktop/Documents/001-Code/sdl2/calcu_sdl3/build",
+  "command": "/usr/bin/c++  -I/home/tandesktop/Documents/001-Code/sdl2/calcu_sdl3/include -g -o CMakeFiles/calcu_sdl3.dir/src/main.cpp.o -c /home/tandesktop/Documents/001-Code/sdl2/calcu_sdl3/src/main.cpp",
+  "file": "/home/tandesktop/Documents/001-Code/sdl2/calcu_sdl3/src/main.cpp",
+  "output": "CMakeFiles/calcu_sdl3.dir/src/main.cpp.o"
+}
+]
