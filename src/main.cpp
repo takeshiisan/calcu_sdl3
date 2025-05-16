@@ -11,4 +11,5 @@ int main(){
 
     SDL_CreateWindowAndRenderer("Calculator",640,480,SDL_WINDOW_OPENGL,&window, &renderer);
 
+    
 }
